@@ -125,8 +125,7 @@ Ground‑truth masks (STAR) produced by our annotation pipeline can be fetched v
 
 If you find this code useful in your research, please cite:
 
-> **Zhang C.** *et al.* A‑Hybrid‑YOLO‑UNet3D Framework for Automated Protein‑Particle Annotation in Cryo‑ET Images. *Sci. Rep.* (2025). DOI:10.1038/s41598‑025‑00000‑x
-
+Liu Z. et al. A‑Hybrid‑YOLO‑UNet3D Framework for Automated Protein‑Particle Annotation in Cryo‑ET Images. Sci. Rep. (under review, 2025).
 ---
 
 ## 10. License
@@ -135,4 +134,6 @@ This project is released under the **MIT License**—see the `LICENSE` file for 
 
 ---
 
-##
+## 11. Acknowledgements
+
+We gratefully acknowledge the vibrant open‑source community whose work underpins this project. In particular, we thank the authors of public Kaggle notebooks and datasets that facilitated benchmarking and rapid prototyping, as well as the countless developers on GitHub who maintain and share libraries, utilities, and example code. Their collective contributions made the development of the Hybrid‑YOLO‑UNet3D
