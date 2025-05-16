@@ -7,7 +7,7 @@
 
 ## 1. Synopsis
 
-This repository provides all code, model artefacts, and reproducibility assets required to replicate the experiments presented in our manuscript and to extend the proposed **Hybrid‑YOLO‑UNet3D** framework to new cryo‑electron‑tomography (Cryo‑ET) datasets. In brief, the framework couples a YOLO‑v8 front‑end (particle candidate localisation) with a lightweight UNet‑3D back‑end (voxel‑level segmentation refinement), thus achieving state‑of‑the‑art annotation accuracy **without the need for manual template matching**.
+This repository provides all code, model artefacts, and reproducibility assets required to replicate the experiments presented in our manuscript and to extend the proposed **Hybrid‑YOLO‑UNet3D** framework to new cryo‑electron‑tomography (Cryo‑ET) datasets. In brief, the framework couples a YOLO‑v5 front‑end (particle candidate localisation) with a lightweight UNet‑3D back‑end (voxel‑level segmentation refinement), thus achieving state‑of‑the‑art annotation accuracy **without the need for manual template matching**.
 
 ---
 
