@@ -7,3 +7,5 @@ Some of the data used in this work was provided by Irene de Teresa Trueba et al 
 We have made improvements based on the open-source code of kaggleu users, and we sincerely thank the open-source contributors for their contributions.
 https://www.kaggle.com/code/hideyukizushi/czii-yolo11-unet3d-monai-lb-707
 https://www.kaggle.com/code/nk35jk/3d-visualization-of-particles
+
+Ultimately, we would like to express our heartfelt gratitude to the open-source community and all the open-source contributors!
